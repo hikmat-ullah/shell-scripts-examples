@@ -1,2 +1,2 @@
 # shell-scripts-examples
-Repo about basic shell scripts 
+This repo contains the basic shell scripts used in linux on daily basis
